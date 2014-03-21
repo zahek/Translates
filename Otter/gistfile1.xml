@@ -330,7 +330,7 @@
     <message>
         <location filename="src/modules/windows/bookmarks/BookmarksContentsWidget.ui" line="29"/>
         <source>Ara...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ara..."></translation>
     </message>
     <message>
         <location filename="src/modules/windows/bookmarks/BookmarksContentsWidget.ui" line="76"/>
@@ -394,7 +394,7 @@
         <location filename="src/modules/windows/bookmarks/BookmarksContentsWidget.cpp" line="190"/>
         <location filename="src/modules/windows/bookmarks/BookmarksContentsWidget.cpp" line="224"/>
         <source>Question</source>
-        <translation type="SOru"></translation>
+        <translation type="Soru"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/bookmarks/BookmarksContentsWidget.cpp" line="190"/>
@@ -622,17 +622,17 @@
     <message>
         <location filename="src/ui/ClearHistoryDialog.ui" line="78"/>
         <source>Clear forms History</source>
-        <translation type="Formların geçmişi temizle"></translation>
+        <translation type="Form geçmişi temizle"></translation>
     </message>
     <message>
         <location filename="src/ui/ClearHistoryDialog.ui" line="85"/>
         <source>Clear downloads history</source>
-        <translation type="İndirme geçmizi temizle"></translation>
+        <translation type="İndirme geçmişini temizle"></translation>
     </message>
     <message>
         <location filename="src/ui/ClearHistoryDialog.ui" line="95"/>
         <source>Clear search history</source>
-        <translation type="Rama geçmişini temizle"></translation>
+        <translation type="Arama geçmişini temizle"></translation>
     </message>
     <message>
         <location filename="src/ui/ClearHistoryDialog.ui" line="102"/>
@@ -680,7 +680,7 @@
     <message>
         <location filename="src/modules/windows/configuration/ConfigurationContentsWidget.cpp" line="201"/>
         <source>Configuration Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="Yapılandırma Yöneticisi"></translation>
     </message>
 </context>
 <context>
@@ -688,7 +688,7 @@
     <message>
         <location filename="src/ui/ContentsDialog.cpp" line="59"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kapat"></translation>
     </message>
 </context>
 <context>
@@ -696,72 +696,72 @@
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="29"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ara..."></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="99"/>
         <source>Domain:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Alan adı:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="112"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="İsim:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="125"/>
         <source>Value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Değer:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="138"/>
         <source>Expires:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Sone erme:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="151"/>
         <source>dd.MM.yyyy HH:mm:ss</source>
-        <translation type="unfinished"></translation>
+        <translation type="gg.aa.yyyy HH:mm:ss"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="173"/>
         <source>Secure</source>
-        <translation type="unfinished"></translation>
+        <translation type="Gizli"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="180"/>
         <source>HTTP only</source>
-        <translation type="unfinished"></translation>
+        <translation type="sadece HTTP"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="195"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="Sil"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="205"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ekle"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.ui" line="228"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="Uygula"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.cpp" line="255"/>
         <source>Remove Cookie</source>
-        <translation type="unfinished"></translation>
+        <translation type="Çerezi Sil"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.cpp" line="258"/>
         <source>Remove All Cookies from This Domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bu adsrese bağlı tüm çerezleri sil"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/cookies/CookiesContentsWidget.cpp" line="407"/>
         <source>Cookies Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="Çerez Yöneticisi"></translation>
     </message>
 </context>
 <context>
@@ -769,17 +769,17 @@
     <message>
         <location filename="src/ui/FilePathWidget.cpp" line="35"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ara..."></translation>
     </message>
     <message>
         <location filename="src/ui/FilePathWidget.cpp" line="59"/>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dosya Seç"></translation>
     </message>
     <message>
         <location filename="src/ui/FilePathWidget.cpp" line="59"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="Klasör Seç"></translation>
     </message>
 </context>
 <context>
@@ -787,57 +787,57 @@
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.ui" line="29"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ara..."></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="43"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bugün"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="43"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dün"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="43"/>
         <source>Earlier This Week</source>
-        <translation type="unfinished"></translation>
+        <translation type="Hafta Başı"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="43"/>
         <source>Previous Week</source>
-        <translation type="unfinished"></translation>
+        <translation type="Önceki Hafta"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="43"/>
         <source>Earlier This Month</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bu Ay Basşı"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="43"/>
         <source>Earlier This Year</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bu Yıl Başı"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="43"/>
         <source>Older</source>
-        <translation type="unfinished"></translation>
+        <translation type="Daha Eski"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="51"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="Adres"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="51"/>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation type="Başlık"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="51"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="Tarih"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="215"/>
@@ -848,52 +848,52 @@
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="369"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="Aç"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="370"/>
         <source>Open in New Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="Yeni Sekmede Aç"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="371"/>
         <source>Open in New Background Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="Yeni Arkaplan Sekmesinde Aç"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="373"/>
         <source>Open in New Window</source>
-        <translation type="unfinished"></translation>
+        <translation type="Yeni Pencerede Aç"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="374"/>
         <source>Open in New Background Window</source>
-        <translation type="unfinished"></translation>
+        <translation type="Yeni Arkaplan Penceresinde Aç"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="376"/>
         <source>Add to Bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Yer imlerine ekle..."></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="377"/>
         <source>Copy Link to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Panoya Kopyala"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="379"/>
         <source>Remove Entry</source>
-        <translation type="unfinished"></translation>
+        <translation type="Girişi Sil"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="380"/>
         <source>Remove All Entries from This Domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bu alan adına ait tüm girişleri sil"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/history/HistoryContentsWidget.cpp" line="413"/>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation type="Geçmiş"></translation>
     </message>
 </context>
 <context>
@@ -901,42 +901,42 @@
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.ui" line="14"/>
         <source>Image Properties</source>
-        <translation type="unfinished"></translation>
+        <translation type="Resim Özellikleri"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.ui" line="22"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Boyut:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.ui" line="29"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Tip:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.ui" line="36"/>
         <source>File Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="DOsya Boyutu:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.ui" line="43"/>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Adres:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.ui" line="50"/>
         <source>Alternative Text:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Alternatif Metin:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.ui" line="57"/>
         <source>Long Description:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Uzun Tanım:"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.cpp" line="62"/>
         <source>%1 GB (%2 bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="%1 GB (%2 byte)"></translation>
     </message>
     <message>
         <location filename="src/modules/windows/web/ImagePropertiesDialog.cpp" line="66"/>
